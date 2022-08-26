@@ -138,6 +138,12 @@ div.half-background {
   color: var(--bg-button-color);
 }
 
+.bottom span:hover {
+  color: var(--text-color);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
 .bottom img {
   margin-left: 0.625rem;
   position: relative;
